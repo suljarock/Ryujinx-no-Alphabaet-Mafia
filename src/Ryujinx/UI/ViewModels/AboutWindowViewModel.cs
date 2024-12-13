@@ -45,7 +45,7 @@ namespace Ryujinx.Ava.UI.ViewModels
             }
         }
 
-        public string Developers => "GreemDev";
+        public string Developers => "Sulja Rock";
 
         public string FormerDevelopers => LocaleManager.Instance.UpdateAndGetDynamicValue(LocaleKeys.AboutPageDeveloperListMore, "gdkchan, Ac_K, marysaka, rip in peri peri, LDj3SNuD, emmaus, Thealexbarney, GoffyDude, TSRBerry, IsaacMarovitz");
 
